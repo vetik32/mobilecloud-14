@@ -1,12 +1,5 @@
 # Assignment 2 Covering Weeks 3-6
 
-# This assignment is in Beta
-
-The assignment has not been officially released. If you would like to get a head
-start on the assignment, you are welcome to do so. However, the final assignment
-may have changes or other bug fixes. If you run into any bugs, please post them
-in the assignment 2 forum.
-
 ## Overview
 
 This assignment will build on the ideas in the original video service to add OAuth 2.0
@@ -33,7 +26,8 @@ Please read the instructions carefully.
 To run the application:
 
 1. Right-click on the Application class in the assignment project->Run As->Java Application (the 
-   application will try to start and fail with an error message)
+   application may try to start and fail with an error message - this is OK). If the application
+   successfully starts, stop the application before proceeding to the next step.
 2. (Menu Bar) Run->Run Configurations
 3. Under Java Applications, select your run configuration for this app's Application class that
    was just created in step 1 (if you select the run configuration, it should list the assignment
